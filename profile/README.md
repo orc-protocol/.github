@@ -1,23 +1,23 @@
-## Hi, Welcome to ORC Protocol 👋
+## 👋 Hi, Welcome to ORC Protocol 
 
-👀 Since the birth of Ordinals, we've seen a lot of new energy in Bitcoin, but also a lot of shortcomings.
+Since the birth of Ordinals👀, we've seen a lot of new energy in Bitcoin, but also a lot of shortcomings.
 
 We want to get involved, build some infrastructure that are needed by users, and attract more developers to build a new open protocol for Bitcoin, so we created the ✨[ORC Protocol]✨.
 
-📢📢📢 Our current goal is to build a comprehensive infrastructure around ORC20, including but not limited to ORC20 transaction indexers, ORC20 trading markets, and new OIP proposals, to continuously promote the development of ORC20. 
+Our current goal is to build a comprehensive infrastructure around ORC20, including but not limited to ORC20 transaction indexers, ORC20 trading markets, and new OIP proposals, to continuously promote the development of ORC20. 
 
 We will also actively promote the launch of the ORC721 protocol, and we will attract top developers from around the world to participate in the technical construction of ORC20 and ORC721 by setting up 🏆[Dev Grants]🏆. 
 
-🎉🎉🎉 All technical construction will be presented as open-source projects on GitHub.
+All technical construction will be presented as open-source projects on GitHub.
 
-## Official ORC-20 Inscription ID
+## 🗒️ Official ORC-20 Inscription ID
 ```json
 {}
 ```
 
 
-## DAO Addrs
-🫰 Official contract address for storing Gas funds for the registration of ORC-20 inscriptions, operating funds for the project.
+## 🗺️ DAO Addrs
+Official contract address for storing Gas funds for the registration of ORC-20 inscriptions, operating funds for the project.
 
 - Polygon: [0x62D62C067aC49CA2C7481e19ae42990ad67d468C](https://beta.xdao.app/137/dao/0x62D62C067aC49CA2C7481e19ae42990ad67d468C)
 - BNB Smart Chain: [0xFD740969118B0De1d2cc8e399Da89bF0da8f6649](https://beta.xdao.app/56/dao/0xFD740969118B0De1d2cc8e399Da89bF0da8f6649)
