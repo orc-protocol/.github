@@ -11,9 +11,11 @@ We will also actively promote the launch of the ORC721 protocol, and we will att
 All technical construction will be presented as open-source projects on GitHub.
 
 ## 🗒️ Official ORC-20 Inscription ID
-```json
-{}
-```
+### InscriptionID: 8364479
+![inscription info](https://github.com/orc-protocol/.github/assets/133884887/95997be7-7fda-457d-88d1-733a43483dbc)
+
+> Inscription Details: https://ordinals.com/inscription/46ef8c481a15dd74577a5496c8e23b85cf305c08cd05e0ec0e212a83626e359ei0
+
 
 
 ## 🗺️ DAO Addrs
